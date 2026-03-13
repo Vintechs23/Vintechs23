@@ -1,12 +1,55 @@
-- 👋 Hi, I’m @Vintechs23
-- 👀 I’m interested in creating problem solving repo
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me wa.me//254768506722
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Kelvin (Vintechs)
 
-<!---
-Vintechs23/Vintechs23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Software Developer | Cybersecurity Enthusiast | Problem Solver**
+
+I enjoy building systems that solve real-world problems, especially in **web development, security, and automation**.
+
+---
+
+## 🚀 What I'm Working On
+
+* Hospital **E-Recruitment System**
+* Web applications using **React and JavaScript**
+* Backend systems and databases
+* Cybersecurity and networking projects
+
+---
+
+## 🛠️ Skills & Technologies
+
+* JavaScript
+* React
+* HTML / CSS
+* Python
+* Networking
+* Cybersecurity
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript
+* Full-stack web development
+* Secure system architecture
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m interested in collaborating on:
+
+* Open-source projects
+* Web applications
+* Security tools
+* Problem-solving software
+
+---
+
+## 📫 Contact Me
+
+WhatsApp: https://wa.me/254719767590
+
+---
+
+⚡ **Fun Fact:**
+I enjoy building tech solutions that improve systems and automate workflows.
